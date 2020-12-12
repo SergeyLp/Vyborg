@@ -1,4 +1,9 @@
 #!trdir
+Type: 1 >1.2
+Type: 2 >2.16
+Type: 3 >0.5
+Type: 4 >1.5
+
 Start: 3:31
 Train: 31
 	Type: 1
