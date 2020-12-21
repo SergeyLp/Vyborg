@@ -2505,26 +2505,11 @@
 (attributes 84,3
 departure 1
 )
-(attributes 76,3
-intermediate 1
-)
-(attributes 74,3
-intermediate 1
-)
-(attributes 78,3
-intermediate 1
-)
-(attributes 72,3
-intermediate 1
-)
 (attributes 19,3
 departure 1
 )
 (attributes 18,1
 departure 1
-)
-(attributes 66,3
-intermediate 1
 )
 (attributes 66,3
 departure 1
