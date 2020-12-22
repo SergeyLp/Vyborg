@@ -1,4 +1,5 @@
 #!trdir
+Encoding: Windows-1251
 Type: 1 >1.2
 Type: 2 >2.16
 Type: 3 >0.5
@@ -947,6 +948,7 @@ Stock: 6198
 
 Train: 6198
 	Type: 2
+	Length:201
 	Wait: 6181
 	Enter: 11:23,  Рощино
 11:29, 11:30,  Ушково
@@ -967,6 +969,8 @@ Train: 6198
 
 Train: 6787
 	Type: 2
+	Length: 99
+	Speed: 100
 	Enter: 9:27,  Петербург_I
 10:23, 10:38,  Зеленогорск
 10:45, 10:46,  Ушково
