@@ -1,5 +1,6 @@
 #!trdir
 Encoding: Windows-1251
+DefaultSpeed: last
 Type: 1 >1.2
 Type: 2 >2.16
 Type: 3 >0.5
