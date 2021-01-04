@@ -4385,42 +4385,50 @@ Train: 6752
  
 Train: 3501
 	Type: 3
+	Length:201
 	Enter: 5:30,  Парнас
 10:00, -,  SEM
 
 
 Train: 3503
 	Type: 3
+	Length:201
 	Enter: 12:20,  Парнас
 15:00, -,  SEM
 
 Train: 3505
 	Type: 3
+	Length:201
 	Enter: 18:15,  Парнас
 22:00, -,  SEM
 
 Train: 3507
 	Type: 3
+	Length:201
 	Enter: 21:54,  Парнас
 1:00, -,  SEM
 
 Train: 3502
 	Type: 3
+	Length:201
 	Enter: 4:30,  SEM
 8:00, -,  Парнас
 
 Train: 3504
 	Type: 3
+	Length:201
 	Enter: 8:30,  SEM
 12:45, -,  Парнас
 
 Train: 3506
 	Type: 3
+	Length:201
 	Enter: 14:00,  SEM
 18:00, -,  Парнас
 
 Train: 3508
 	Type: 3
+	Length:201
 	Enter: 20:50,  SEM
 1:00, -,  Парнас
 
