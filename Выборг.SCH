@@ -1,12 +1,12 @@
 #!trdir
 Encoding: Windows-1251
 DefaultSpeed: last
-Start: 3:31
+Start: 0:00
 
 Type: 1 >1.2
 Type: 2 >2.16
 Type: 3 >0.5
-Type: 4 >1.0
+Type: 4 >0.7
 Type: 5 >1.5
 
 Train: 31
