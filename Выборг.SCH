@@ -4404,49 +4404,49 @@ Train: 3501
 	Type: 3
 	Length:570
 	Enter: 5:30,  Парнас
-10:00, -,  SEM
+10:00, -,  Семиозёрье
 
 
 Train: 3503
 	Type: 3
 	Length:570
 	Enter: 12:20,  Парнас
-15:00, -,  SEM
+15:00, -,  Семиозёрье
 
 Train: 3505
 	Type: 3
 	Length:570
 	Enter: 18:15,  Парнас
-22:00, -,  SEM
+22:00, -,  Семиозёрье
 
 Train: 3507
 	Type: 3
 	Length:570
 	Enter: 21:54,  Парнас
-1:00, -,  SEM
+1:00, -,  Семиозёрье
 
 Train: 3502
 	Type: 3
 	Length:570
-	Enter: 4:30,  SEM
+	Enter: 4:30,  Семиозёрье
 8:00, -,  Парнас
 
 Train: 3504
 	Type: 3
 	Length:570
-	Enter: 8:30,  SEM
+	Enter: 8:30,  Семиозёрье
 12:45, -,  Парнас
 
 Train: 3506
 	Type: 3
 	Length:570
-	Enter: 14:00,  SEM
+	Enter: 14:00,  Семиозёрье
 18:00, -,  Парнас
 
 Train: 3508
 	Type: 3
 	Length:570
-	Enter: 20:50,  SEM
+	Enter: 20:50,  Семиозёрье
 1:00, -,  Парнас
 
 #####################################
