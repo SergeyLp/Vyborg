@@ -1,7 +1,7 @@
 #!trdir
 Encoding: Windows-1251
 DefaultSpeed: last
-Start: 0:00
+Start: 3:31
 
 Type: 1 >1.2
 Type: 2 >2.16
@@ -149,6 +149,7 @@ Train: 82
 
 Train: 6151
 	Type: 2
+	Length: 210
 	Enter: 0:12,  Петербург_I
 0:16, 0:17,  Ланская 
 0:19, 0:20,  Удельная
@@ -3509,12 +3510,14 @@ Train: 6049
 
 Train: 6051
 	Type: 2
+	Length: 210
 	Enter: 22:50,  Петербург_I
 22:54, 22:55,  Ланская  
 22:58, -,  Нов.Деревня_I
 
 Train: 6051K
 	Type: 2
+	Length: 210
 	Enter: 23:57,  Сестрорецк
 0:10, -,  Белоостров
 
@@ -3531,6 +3534,7 @@ Train: 6053K
 
 Train: 6002K
 	Type: 2
+	Length:201
 	Enter: 4:20,  Бел_8
 4:30, 5:08,  Белоостров
 5:22, -,  Сестрорецк
@@ -4119,6 +4123,7 @@ Train: 3062
 
 Train: 3006
 	Type: 3
+	Length:570
 	Enter: 0:08, Тов_13
 4:15, -, Кушелевка
 
